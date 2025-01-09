@@ -80,7 +80,7 @@ The system demonstrated reliable tumor classification performance, assisting in 
 - High prediction accuracy with advanced deep learning techniques.
 - Simple and efficient implementation using Google Colab.
 - 
-###Disadvantages
+### Disadvantages
 - Requires high-quality labeled datasets for effective training.
 - Deep learning models are less interpretable compared to traditional methods.
 
